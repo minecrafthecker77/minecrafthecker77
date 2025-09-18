@@ -28,12 +28,28 @@
 
 ### 🔥 Mobile Dev Setup
 
-```bash
-# My office is literally a phone
-pkg install git nodejs python clang golang
-# Building the future from Termux while y'all need IDEs
-```
+    # My office is literally a phone
+    pkg install git nodejs python clang golang
+    # Building the future from Termux while y'all need IDEs
 
-## 📊 The Numbers Don't Li
-```
-```</div>
+## 📊 The Numbers Don't Lie
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minecrafthecker77&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minecrafthecker77&layout=compact&langs_count=16&theme=radical"/>
+</div>
+
+## ⚡ Fun Facts
+- Started coding before I could legally drive
+- Can write assembly on a phone keyboard (yes, really)
+- Termux is my IDE, terminal, and entire development environment
+- Currently working on projects that'll make adults go "wait, WHAT?"
+
+## 🎯 Recent Projects
+- Dating utils (because algorithms > small talk)
+- Mobile-first development workflow optimization
+- Cross-platform tools that work on EVERYTHING
+
+---
+<div align="center">
+  <i>Age is just a number, but code quality is ETERNAL 🚀</i>
+	</div></i></div>
